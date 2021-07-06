@@ -16,6 +16,7 @@ Material for an introductory programming course (high-school level)
 * paradigm reflection
 * collaboration
 * communicating with non-technical people
+* fundamentals of application design
 
 
 ## Course introduction ##
@@ -110,4 +111,16 @@ Practice in describing functionality of programs.<br>
 Verbal skills.<br>
 Separating interface from implementation.<br>
 Talking with customers: Interpreting requirements as programming tasks.
+
+
+## Fundamentals of application design ##
+
+Graphics application or terminal application.<br>
+Design of terminal applications.<br>
+GUI programming.<br>
+Game design.<br>
+Web page design.<br>
+
+
+
 
