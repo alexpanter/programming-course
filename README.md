@@ -4,6 +4,7 @@ Material for an introductory programming course (high-school level)
 ### Contents ###
 
 * course introduction
+* introduction to programming
 * introduction to the terminal
 * fundamentals of discrete mathematics
 * functional programming
@@ -25,6 +26,13 @@ What is programming?<br>
 Programming through the times and development since 1940's.<br>
 The role of programming and programs in Today's society.<br>
 Course structure and rationale.
+
+## Introduction to programming ##
+
+What does it mean to program?<br>
+What is a program? (an algorithm / set of instructions / expression through syntax)<br>
+How do we program? (programming language)
+Exemplify a program in several different languages and look for differences/similarities.
 
 
 ## Introduction to the terminal ##
