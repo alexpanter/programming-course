@@ -31,6 +31,8 @@ What is a computer.
 ## Introduction to programming ##
 
 What does it mean to program?<br>
+What are the roles of a programmer in a modern setting?<br>
+Which tools do programmers use?<br>
 What is a program? (an algorithm / set of instructions / expression through syntax)<br>
 How do we program? (programming language)
 Exemplify a program in several different languages and look for differences/similarities.
