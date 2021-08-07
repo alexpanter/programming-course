@@ -25,7 +25,8 @@ Material for an introductory programming course (high-school level)
 What is programming?<br>
 Programming through the times and development since 1940's.<br>
 The role of programming and programs in Today's society.<br>
-Course structure and rationale.
+Course structure and rationale.<br>
+What is a computer.
 
 ## Introduction to programming ##
 
