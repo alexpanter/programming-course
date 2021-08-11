@@ -9,7 +9,6 @@ Material for an introductory programming course (high-school level)
 * fundamentals of discrete mathematics
 * functional programming
 * logic and circuits
-* prolog crash course
 * procedural programming
 * imperative programming
 * object-oriented programming
@@ -70,13 +69,6 @@ Applying theory from discrete mathematics: Data structure, binding, function, re
 Predicates and truth tables. Logical operators. Mathematical notation.<br>
 Binary numbers. Binary operators.<br>
 Nandgame.com. Logisim.
-
-
-## Prolog crash course ##
-
-Introduction to a programmning language built on logical operators.<br>
-Focus on only very simple constructs.<br>
-Reflection on its intuitiveness.
 
 
 ## Procedural programming ##
